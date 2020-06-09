@@ -1,7 +1,7 @@
 #include < string.h >
 
-char *str_init = "Hello World"
-char *str_out  = ""
+char *str_init = "Hello World";
+char *str_out  = "";
 
 void copy_str()
 {
